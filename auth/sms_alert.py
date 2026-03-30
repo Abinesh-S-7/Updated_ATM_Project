@@ -8,18 +8,18 @@ from twilio.rest import Client
 # Cloudinary Config
 # ==============================
 cloudinary.config(
-    cloud_name="dazyf5ejp",
-    api_key="196374664982641",
-    api_secret="G5tENJKH4OlxQ8hfHF_tzWbPli8"
+    cloud_name="",
+    api_key="",
+    api_secret=""
 )
 
 # ==============================
 # Twilio Config
 # ==============================
-TWILIO_ACCOUNT_SID = "ACb9433cb23e5be0ab7290290ddd23b0dd"
-TWILIO_AUTH_TOKEN = "44ae33fbda76a25308ab9240cd61ee87"
-TWILIO_PHONE_NUMBER = "+18122864149"
-TO_PHONE_NUMBER = "+916380825972"
+TWILIO_ACCOUNT_SID = ""
+TWILIO_AUTH_TOKEN = ""
+TWILIO_PHONE_NUMBER = ""
+TO_PHONE_NUMBER = ""
 
 
 # ==============================

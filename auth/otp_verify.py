@@ -7,9 +7,9 @@ from datetime import datetime
 # ==============================
 # Twilio Configuration
 # ==============================
-TWILIO_ACCOUNT_SID = "ACb9433cb23e5be0ab7290290ddd23b0dd"
-TWILIO_AUTH_TOKEN = "44ae33fbda76a25308ab9240cd61ee87"
-TWILIO_PHONE_NUMBER = "+18122864149"
+TWILIO_ACCOUNT_SID = ""
+TWILIO_AUTH_TOKEN = ""
+TWILIO_PHONE_NUMBER = ""
 
 # OTP storage (in-memory)
 last_otp = None
@@ -29,7 +29,7 @@ def generate_otp():
 # ==============================
 def send_otp_sms(phone_number):
     global last_otp, last_otp_time
-    phone_number="+916380825972"
+    phone_number=""
 
     try:
         otp = generate_otp()
