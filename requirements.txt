@@ -1,0 +1,16 @@
+# Core Python Libraries
+opencv-python>=4.7.0
+opencv-contrib-python>=4.7.0  # Required for LBPHFaceRecognizer
+
+# AI and Machine Learning
+tensorflow>=2.10.0  # Required for Keras mask predictions
+numpy>=1.23.0
+
+# UI and Multimedia
+customtkinter>=5.2.0
+Pillow>=10.4.0
+pygame>=2.5.0
+
+# Cloud and Communications
+twilio>=8.0.0
+cloudinary>=1.41.0
