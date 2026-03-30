@@ -1,0 +1,158 @@
+{
+    "1234567890": {
+        "password": "1234",
+        "phone_number": "1234567890"
+    },
+    "1": {
+        "password": "1234",
+        "phone_number": "1"
+    },
+    "11": {
+        "password": "1",
+        "phone_number": "11"
+    },
+    "9": {
+        "password": "1",
+        "phone_number": "1"
+    },
+    "12345678": {
+        "password": "1234",
+        "phone_number": "1234567890"
+    },
+    "122": {
+        "password": "122",
+        "phone_number": "1"
+    },
+    "121": {
+        "password": "121",
+        "phone_number": "1"
+    },
+    "1221": {
+        "password": "1221",
+        "phone_number": "121"
+    },
+    "412422104005": {
+        "password": "123",
+        "phone_number": "6380825972"
+    },
+    "12": {
+        "password": "12",
+        "phone_number": "12"
+    },
+    "91": {
+        "password": "91",
+        "phone_number": "91"
+    },
+    "76": {
+        "password": "76",
+        "phone_number": "76"
+    },
+    "987": {
+        "password": "987",
+        "phone_number": "123"
+    },
+    "654": {
+        "password": "654",
+        "phone_number": "654"
+    },
+    "90": {
+        "password": "90",
+        "phone_number": "90"
+    },
+    "123": {
+        "password": "1234",
+        "phone_number": "8608583298"
+    },
+    "000": {
+        "password": "000",
+        "phone_number": "6380825972"
+    },
+    "2004": {
+        "password": "2004",
+        "phone_number": "2004"
+    },
+    "101": {
+        "password": "101",
+        "phone_number": "101"
+    },
+    "102": {
+        "password": "102",
+        "phone_number": "102"
+    },
+    "1011": {
+        "password": "1011",
+        "phone_number": "1011"
+    },
+    "5": {
+        "password": "5",
+        "phone_number": "5"
+    },
+    "61": {
+        "password": "61",
+        "phone_number": "61"
+    },
+    "57": {
+        "password": "57",
+        "phone_number": "57"
+    },
+    "13": {
+        "password": "14",
+        "phone_number": "14"
+    },
+    "616": {
+        "password": "616",
+        "phone_number": "616",
+        "name": "616",
+        "account_no": "616",
+        "balance": 616.0
+    },
+    "716": {
+        "password": "716",
+        "phone_number": "7166666666",
+        "name": "716",
+        "account_no": "716",
+        "balance": 716.0
+    },
+    "717": {
+        "password": "717",
+        "phone_number": "7177177177",
+        "name": "717",
+        "account_no": "717",
+        "balance": 717.0
+    },
+    "818": {
+        "password": "818",
+        "phone_number": "8188188188",
+        "name": "818",
+        "account_no": "818",
+        "balance": 818.0
+    },
+    "8181": {
+        "password": "818",
+        "phone_number": "8188181818",
+        "name": "818",
+        "account_no": "818",
+        "balance": 818.0
+    },
+    "919": {
+        "password": "9191",
+        "phone_number": "6380825972",
+        "name": "Abinesh",
+        "account_no": "919",
+        "balance": 10000.0
+    },
+    "01": {
+        "password": "1111",
+        "phone_number": "1234567890",
+        "name": "Abi",
+        "account_no": "1",
+        "balance": 10000.0
+    },
+    "10": {
+        "password": "1111",
+        "phone_number": "1231412321",
+        "name": "Abi",
+        "account_no": "10",
+        "balance": 10.0
+    }
+}
